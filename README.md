@@ -8,6 +8,7 @@ Basic Algorithms written in c/c++
 4.Selection Sort  
 
 ###Stacks, Queues and List
+1.ArrayImplementationOfCircularQueue  
 
 ###Recursion
 
