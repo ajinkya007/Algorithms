@@ -10,6 +10,8 @@ Basic Algorithms written in c/c++
 ###Stacks, Queues and List
 1.ArrayImplementationOfCircularQueue  
 2.ArrayImplementationOfLinkedList  
+3.ArrayImplementationOfQueue  
+4.ArrayImplementationOfStack  
 
 ###Recursion
 
