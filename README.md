@@ -12,7 +12,9 @@ Basic Algorithms written in c/c++
 2.ArrayImplementationOfLinkedList  
 3.ArrayImplementationOfQueue  
 4.ArrayImplementationOfStack  
-5.Balanced Symbols
+5.Balanced Symbols  
+6.CircularLinkedLists  
+
 
 ###Recursion
 
