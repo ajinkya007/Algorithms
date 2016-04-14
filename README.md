@@ -15,6 +15,8 @@ Basic Algorithms written in c/c++
 5.Balanced Symbols  
 6.CircularLinkedLists  
 7.CircularQueueUsingLinkedList  
+8.Deque  
+
 
 
 ###Recursion
