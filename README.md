@@ -17,6 +17,7 @@ Basic Algorithms written in c/c++
 7.CircularQueueUsingLinkedList  
 8.Deque  
 9.DoubleLinkedList  
+10.InfixToPostfix
 
 
 ###Recursion
