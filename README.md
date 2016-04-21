@@ -19,7 +19,8 @@ Basic Algorithms written in c/c++
 9.DoubleLinkedList  
 10.InfixToPostfix  
 11.Josephus Problem  
-12.LinkedList   
+12.LinkedList  
+13.Multiple Paranthesis
 
 
 ###Recursion
