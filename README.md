@@ -21,6 +21,7 @@ Basic Algorithms written in c/c++
 11.Josephus Problem  
 12.LinkedList  
 13.Multiple Paranthesis
+14.Prioirty Queue using Linked List
 
 
 ###Recursion
