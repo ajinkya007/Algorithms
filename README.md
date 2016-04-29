@@ -22,6 +22,7 @@ Basic Algorithms written in c/c++
 12.LinkedList  
 13.Multiple Paranthesis
 14.Prioirty Queue using Linked List
+15.Queue using Linkedlist
 
 
 ###Recursion
