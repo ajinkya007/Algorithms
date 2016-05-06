@@ -26,4 +26,5 @@ Basic Algorithms written in c/c++
 
 
 ###Recursion
-1.Tower of Hanoi
+1.Tower of Hanoi  
+2.Backtracking-N Queens Problem
