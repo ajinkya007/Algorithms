@@ -29,3 +29,5 @@ Basic Algorithms written in c/c++
 1.Tower of Hanoi  
 2.Backtracking-N Queens Problem  
 3.Factorial Recursion  
+4.Decimal to Binary using stack  
+
