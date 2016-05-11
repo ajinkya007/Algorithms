@@ -11,7 +11,9 @@
 /*
  * 
  */
+ //Recursive function for factorial
 int fact(int n){
+//Test for the base condition and the recursive condition
     if (n==0)
         return 1;
     else 
