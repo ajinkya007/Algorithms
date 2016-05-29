@@ -31,3 +31,6 @@ Basic Algorithms written in c/c++
 3.Factorial Recursion  
 4.Decimal to Binary using stack  
 
+###Graphs  
+
+
