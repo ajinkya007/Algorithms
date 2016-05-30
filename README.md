@@ -32,5 +32,7 @@ Basic Algorithms written in c/c++
 4.Decimal to Binary using stack  
 
 ###Graphs  
+1.BFS  
+
 
 
