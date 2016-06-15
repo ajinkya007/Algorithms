@@ -33,6 +33,7 @@ Basic Algorithms written in c/c++
 
 ###Graphs  
 1.BFS  
+2.DFS  
 
 
 
