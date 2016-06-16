@@ -3,6 +3,7 @@ Basic Algorithms written in c/c++
 
 
 ###Searching
+1.Binary Search  
 
 ###Sorting
 1.Exchange Sort  
