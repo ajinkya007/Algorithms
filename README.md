@@ -1,6 +1,9 @@
 # Algorithms
 Basic Algorithms written in c/c++
 
+
+###Searching
+
 ###Sorting
 1.Exchange Sort  
 2.External Sort  
@@ -33,7 +36,8 @@ Basic Algorithms written in c/c++
 
 ###Graphs  
 1.BFS  
-2.DFS  
+2.DFS3.  
+3.Warshall's Algorithm  
 
 
 
