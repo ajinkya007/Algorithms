@@ -40,5 +40,7 @@ Basic Algorithms written in c/c++
 2.DFS3.  
 3.Warshall's Algorithm  
 
+##Trees
+1.Prefix to Infix  
 
 
