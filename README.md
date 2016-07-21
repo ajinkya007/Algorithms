@@ -43,5 +43,6 @@ Basic Algorithms written in c/c++
 ##Trees
 1.Prefix to Infix  
 2.Binary Tree  
+3.Prefix to Postfix  
 
 
