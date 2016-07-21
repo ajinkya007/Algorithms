@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61122DDA
+eax=FFFFFFA8 ebx=00000001 ecx=0028ABBE edx=FFFFFFA8 esi=00000000 edi=8003A668
+ebp=FFFFFFA8 esp=0028AAEC program=D:\NetBeansProjects\PrefixToPostfix\dist\Debug\Cygwin_4.x-Windows\prefixtopostfix.exe, pid 3092, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
